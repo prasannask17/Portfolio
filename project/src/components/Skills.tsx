@@ -7,10 +7,10 @@ const Skills: React.FC = () => {
       title: 'Frontend',
       icon: '🕸️',
       skills: [
-        { name: 'React' },
-        { name: 'TypeScript' },
-        { name: 'Tailwind CSS' },
-        { name: 'Next.js'},
+        { name: 'React',level: 85 },
+        { name: 'TypeScript',level: 75 },
+        { name: 'Tailwind CSS',level: 80 },
+        { name: 'Next.js',level: 85},
       ]
     },
     {
